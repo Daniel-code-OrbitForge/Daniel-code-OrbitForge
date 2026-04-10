@@ -120,6 +120,4 @@ A major project that reflects my ability to plan, design, and build complete sol
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Daniel-code-OrbitForge&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
